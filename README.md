@@ -16,24 +16,21 @@ The application uses a **Convolutional Neural Network (CNN)** to classify plant 
 
 ## 📦 Installation
 
-### 1️⃣ Clone the Repository
-```bash
+1️⃣ Clone the Repository
+
 git clone https://github.com/tajanajain123/Plant-Disease-Detection.git
 cd Plant-Disease-Detection
+
 2️⃣ Install Dependencies
 Make sure you have Python 3.8+ installed. Then run:
-
-bash
-Copy code
 pip install -r requirements.txt
+
 3️⃣ Setup the Model
-bash
-Copy code
 python setup.py
+
 4️⃣ Start the Application
-bash
-Copy code
 streamlit run main.py
+
 5️⃣ Open in Browser
 Go to 👉 http://localhost:8501
 
