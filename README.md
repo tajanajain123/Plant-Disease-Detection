@@ -35,48 +35,48 @@ streamlit run main.py
 Go to 👉 http://localhost:8501
 
 🧠 Model Details
-Input: 224x224 RGB images
+    Input: 224x224 RGB images
 
-Architecture: CNN with 5 convolutional blocks and 3 dense layers
+    Architecture: CNN with 5 convolutional blocks and 3 dense layers
 
-Output: 200 plant disease classes
+    Output: 200 plant disease classes
 
-Accuracy: ~90% on known plants
+    Accuracy: ~90% on known plants
 
 🌱 Supported Plant Classes
-Vegetables: Tomato, Potato, Corn, Pepper, Cucumber, Cabbage, etc.
+    Vegetables: Tomato, Potato, Corn, Pepper, Cucumber, Cabbage, etc.
 
-Fruits: Apple, Orange, Grape, Strawberry, Peach, Cherry, etc.
+    Fruits: Apple, Orange, Grape, Strawberry, Peach, Cherry, etc.
 
-Cereals: Wheat, Rice, Barley, Soybean, etc.
+    Cereals: Wheat, Rice, Barley, Soybean, etc.
 
-Herbs: Basil, Mint, Rose, etc.
+    Herbs: Basil, Mint, Rose, etc.
 
-Trees: Oak, Pine, Eucalyptus, etc.
+    Trees: Oak, Pine, Eucalyptus, etc.
 
-Tropical: Coffee, Tea, Cotton, etc.
+    Tropical: Coffee, Tea, Cotton, etc.
 
 🛠️ Requirements
-Python: 3.8 or higher
+    Python: 3.8 or higher
 
-Memory: 4GB+ RAM
+    Memory: 4GB+ RAM
 
-Storage: 2GB+ free space
+    Storage: 2GB+ free space
 
-Dependencies: Listed in requirements.txt
+    Dependencies: Listed in requirements.txt
 
 🎯 Use Cases
-👩‍🌾 Farmers – Identify plant diseases quickly in the field
+    👩‍🌾 Farmers – Identify plant diseases quickly in the field
 
-🔬 Researchers – Reliable analysis for agricultural studies
+    🔬 Researchers – Reliable analysis for agricultural studies
 
-🎓 Students – Learn about AI in agriculture
+    🎓 Students – Learn about AI in agriculture
 
-🌱 Gardeners – Monitor plant health at home
+    🌱 Gardeners – Monitor plant health at home
 
 📊 Example Workflow
-Open the web app
+    Open the web app
 
-Upload a plant leaf image
+    Upload a plant leaf image
 
-Get disease prediction with confidence score
+    Get disease prediction with confidence score
